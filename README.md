@@ -1,3 +1,11 @@
+# StarQuest Expeditions
+
+This is a website for a fictional travel agency. It's a hobby project, created to learn SvelteKit for static site generation.
+
+Read [prompt.md](prompt.md) if you are interested in knowing more.
+
+---
+
 # create-svelte
 
 Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).
